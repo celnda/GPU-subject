@@ -5,34 +5,35 @@
 There are several comments in code with specific purpose. Examples are given to each cathegory of comment.
 * **plain comment** - general description of the piece of code
 
-    * ```C
-    // useful description of code here
-    ```
+```c
+// useful description of code here
+```
 
 * **block comment** - code section divider usually with row of "="
-    * ```C
-    // === important section ===
-    // == less important section ==
-    /* another section type*/
-    ```
+```c
+// === important section ===
+// == less important section ==
+/* another section type*/
+```
 * **NOTE** - noteworthy feature in the code, have a closer look
-    * ```C
-    //NOTE - the function call is looking suspicious
-    ```
+```c
+//NOTE - the function call is looking suspicious
+```
 
 * **TASK** - perform the task given and see the result, to better understand what is happening
-    * ```C
-    //TASK - comment this to see the difference
-    ```
+```c
+//TASK - comment this to see the difference
+```
 
 * **BUG** - warns about the high chance of making a mistake in this area, error prone area
-	* ```C
-	//BUG - check the memory allocation
-	```
+```c
+//BUG - check the memory allocation
+```
+
 * **TODO** - helps spot places for extension and pending code enhancments
-	* ```C
-	//TODO - implement more rigorous checking
-	```
+```c
+//TODO - implement more rigorous checking
+```
 
 ## what to do when lost
 > "If In Doubt, Meriadoc, Always Follow Your Nose!" Gandalf the Grey
