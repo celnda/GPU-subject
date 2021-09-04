@@ -34,6 +34,10 @@ There are several comments in code with specific purpose. Examples are given to 
 ```c
 //TODO - implement more rigorous checking
 ```
+* **DEBUG** - anotates the code used for debugging
+```c
+// print(matrix size: %d, mat_size); //DEBUG 
+```
 
 ## what to do when lost
 > "If In Doubt, Meriadoc, Always Follow Your Nose!" Gandalf the Grey
