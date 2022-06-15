@@ -16,7 +16,7 @@
 #include <stdio.h>
 #include "cuda_runtime_api.h"
 #include "err_check.h"
-#include "utilities.h"
+#include "02_utilities.h"
 
 /* === The program section === */
 

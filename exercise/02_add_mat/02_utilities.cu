@@ -3,12 +3,12 @@
  Name			: Parallel programming in CUDA
  Author			: David Celny
  Date			: 03.09.2021 (revised)
- Description	: support code
+ Description	: support code for 02 exercise
 				: utilities for matrix generation, display, check
  ============================================================================
  */
 #include <stdio.h>
-#include "utilities.h"
+#include "02_utilities.h"
 
 /* = the utilities code = */
 void get_rnd_mat(unsigned int size_x, unsigned int size_y, float *mat)
